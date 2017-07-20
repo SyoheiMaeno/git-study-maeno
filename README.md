@@ -1,1 +1,3 @@
-# git-study-maeno
+# gitの勉強会
+-テスト1
+~テスト2
